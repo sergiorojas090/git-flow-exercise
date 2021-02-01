@@ -21,3 +21,6 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 ### [Madame Croque](writer/madame-croque.md) | mmecroque@flavor.magazine
 
 [Chocolate Soup](recipe/jan/chocolate-soup.md)
+
+### LAST MONTH'S FAVORITES
+The magazine is happy with the work that has been done, but has asked that the recipes picked for january appear on the home screen under the heading "Last Month's Favorites". Oh and by the way, John Lemon has been fired so please would you remove him from the application.
