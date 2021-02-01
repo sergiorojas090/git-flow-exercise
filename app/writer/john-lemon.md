@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Homemade Sausages](../recipe/jan/homemade-sausages.md)
+-February: [Candied Carriots] (https://www.allrecipes.com/recipe/18241/candied-carrots/)
