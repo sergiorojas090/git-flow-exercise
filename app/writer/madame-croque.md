@@ -5,3 +5,4 @@
 Recipe Picks:
 
 - January: [Chocolate Soup](../recipe/jan/chocolate-soup.md)
+- February: [Roast Pork And pickled cucumber sandwich](https://www.realsimple.com/food-recipes/browse-all-recipes/roast-pork-sandwich)
